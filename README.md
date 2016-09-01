@@ -18,4 +18,4 @@ I expect this app will use MongoDB, Express, Angular, Node, Bootstrap, HTML, and
 
 Currently, the app is envisioned with 3 models - Users, Addresses, and Trips.  
 
-![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/ERD_v1.pdf)
+![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/ERD_v1.jpg)
