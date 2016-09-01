@@ -1,0 +1,7 @@
+Main Idea:
+- sustainability
+- start by looking at carbon footprint related to daily ground transportation
+- users can keep a log of trips they've made (mileage) and get a measure of greenhouse gas emissions
+- use Google map APIs where users can input start/end locations and get a comparison of greenhouse gas emissions for driving vs public transportation
+- would like to be able to add real-time bus/train route and times so user has info about available public transportation option
+- be able to store a user, home address, maybe regular locations
