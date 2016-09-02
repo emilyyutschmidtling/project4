@@ -20,10 +20,10 @@ Currently, the app is envisioned with 3 models - User, Address, and Trip.
 
 Wireframes:
 
-!(https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender.jpg)
+![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender.jpg)
 
-!(https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender_1.jpg)
+![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender_1.jpg)
 
-!(https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender_2.jpg)
+![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender_2.jpg)
 
-!(https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender_3.jpg)
+![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender_3.jpg)
