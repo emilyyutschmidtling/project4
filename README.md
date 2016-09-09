@@ -17,7 +17,7 @@ My Trello Project Board:  https://trello.com/b/iifWcUwc/project-4
 
 This app was built using MongoDB, Express, Angular, Node, Google Maps Directions API, ngMap, Bootstrap, HTML, and CSS.  User authentication is via JWT.
 
-Currently, the app was envisioned with 3 models - User, Address, and Trip.  The auto-complete functionality available with Google Maps made the Address model unnecessary.
+The app was originally envisioned with 3 models - User, Address, and Trip.  The auto-complete functionality available with Google Maps made the Address model unnecessary.
 
 ![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/ERD_v1.jpg)
 
