@@ -6,8 +6,11 @@ Please visit:  https://eyschmidt1ing.github.io/project4_frontend/#/
 NOTE:  If his site is best viewed using Chrome.
 
 Github Repo:
+
 README:  https://github.com/eyschmidt1ing/project4
+
 Frontend:  https://github.com/eyschmidt1ing/project4_frontend
+
 Backend:  https://github.com/eyschmidt1ing/project4_backend
 
 My Trello Project Board:  https://trello.com/b/iifWcUwc/project-4
