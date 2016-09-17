@@ -2,16 +2,16 @@
 
 This web app is intended to help users reflect on the impact of our everyday decisions on the environment.  As a first step, the app allows users to input start and end locations, and get a comparison of greenhouse gas emissions for driving vs taking public transportation.
 
-Please visit:  https://eyschmidt1ing.github.io/project4_frontend/#/
-NOTE:  If his site is best viewed using Chrome.
+Please visit:  https://emilyyutschmidtling.github.io/project4_frontend/#/
+NOTE:  If his site is best viewed using Chrome.  Also, you will need to enable cross-origin resource sharing (CORS) on your browser.
 
 Github Repo:
 
-README:  https://github.com/eyschmidt1ing/project4
+README:  https://github.com/emilyyutschmidtling/project4
 
-Frontend:  https://github.com/eyschmidt1ing/project4_frontend
+Frontend:  https://github.com/emilyyutschmidtling/project4_frontend
 
-Backend:  https://github.com/eyschmidt1ing/project4_backend
+Backend:  https://github.com/emilyyutschmidtling/project4_backend
 
 My Trello Project Board:  https://trello.com/b/iifWcUwc/project-4
 
@@ -22,17 +22,17 @@ This app was built using MongoDB, Express, Angular, Node, Google Maps Directions
 
 The app was originally envisioned with 3 models - User, Address, and Trip.  The auto-complete functionality available with Google Maps made the Address model unnecessary.
 
-![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/ERD_v1.jpg)
+![alt text](https://github.com/emilyyutschmidtling/project4/blob/master/planning/ERD_v1.jpg)
 
 Wireframes:
 
-![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender.jpg)
+![alt text](https://github.com/emilyyutschmidtling/project4/blob/master/planning/attachments/FullSizeRender.jpg)
 
-![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender_1.jpg)
+![alt text](https://github.com/emilyyutschmidtling/project4/blob/master/planning/attachments/FullSizeRender_1.jpg)
 
-![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender_2.jpg)
+![alt text](https://github.com/emilyyutschmidtling/project4/blob/master/planning/attachments/FullSizeRender_2.jpg)
 
-![alt text](https://github.com/eyschmidt1ing/project4/blob/master/planning/attachments/FullSizeRender_3.jpg)
+![alt text](https://github.com/emilyyutschmidtling/project4/blob/master/planning/attachments/FullSizeRender_3.jpg)
 
 **_Known Bugs_**
 
